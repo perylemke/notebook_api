@@ -1,6 +1,6 @@
 ![Rails](img/RubyonRails_tw_mostove.png)
 
-# Notebook API
+**Notebook API**
 ===================
 ![ruby](https://img.shields.io/badge/Ruby-2.3.1-red.svg)
 ![rails](https://img.shields.io/badge/Rails-5.0.2-red.svg)
